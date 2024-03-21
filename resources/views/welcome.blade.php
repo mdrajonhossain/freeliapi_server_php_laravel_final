@@ -9,7 +9,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 </head>
 
-<body class="bg-light min-vh-100 d-flex align-items-center justify-content-center">
+<body class="min-vh-100 d-flex align-items-center justify-content-center" style="background-color: #e9e6e6;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-5">
@@ -19,18 +19,18 @@
                         <form id="resourceForm">
                             <div class="form-group">
                                 <label for="email">Email:</label>
-                                <input type="email" id="email" name="email" class="form-control" required>
+                                <input type="email" id="email" name="email" class="form-control" required placeholder="Please enter your email">
                             </div>
                             <div class="form-group">
                                 <label for="password">Password:</label>
-                                <input type="password" id="password" name="password" class="form-control" required>
+                                <input type="password" id="password" name="password" class="form-control" required placeholder="Please enter your Password">
                             </div>
                             <div class="form-group">
                                 <div class="form-check">
                                     <input type="checkbox" id="remember_me" name="remember_me" class="form-check-input">
                                     <label for="remember_me" class="form-check-label">Remember me</label>
                                 </div>
-                                <a href="#" class="text-sm text-primary">Forgot Password?</a>
+                                
                             </div>
                             <button type="submit" class="btn btn-primary btn-block">Login</button>
                         </form>
