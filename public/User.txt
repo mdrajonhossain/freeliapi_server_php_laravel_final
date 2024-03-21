@@ -1,0 +1,12 @@
+email: rajon@gmail.com
+password:a123456
+has_pass:$2y$10$Wnnkm2rkqz0igMy.S/tbuuTauxi8/xpb7cmn9F9PcS.RsKqySpgGe
+ 
+email: rajon@gmail.com
+password:a123456
+has_pass:$2y$10$gFxGp/nIy8crBm.Olbq3xerGY7c3hcniMLLYDDzRWZFmxKBUIuJqC
+ 
+email: rajon@gmail.com
+password:a123456
+has_pass:$2y$10$7HNqeSECA.4khvQioyHfKOwX4e4s2gcg/2HlqwFA9uX/aEItIDAS.
+ 
