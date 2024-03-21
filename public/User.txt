@@ -14,3 +14,7 @@ email: mo@gmail.com
 password:a123456
 has_pass:$2y$10$f1aDg7UXn0c2FKkOJvzLYO9nkXaxV.y7Iow5.EXQdzDfjiUNUEvja
  
+email: mo@gmail.com
+password:a123456
+has_pass:$2y$10$/D7mj9taZz0oHc4O6E3bs.RWLWFBfbKvDGPvmWTO7hHBTdVV3/D5K
+ 
