@@ -1,12 +1,20 @@
-email: rajon@gmail.com
+email: mo@gmail.com
 password:a123456
-has_pass:$2y$10$Wnnkm2rkqz0igMy.S/tbuuTauxi8/xpb7cmn9F9PcS.RsKqySpgGe
+has_pass:$2y$10$Ra5.t74I0b1WsD.AizOiau6wbL1/oQm85DCy2IpCHNBcBh6.gOKje
  
-email: rajon@gmail.com
+email: mo@gmail.com
 password:a123456
-has_pass:$2y$10$gFxGp/nIy8crBm.Olbq3xerGY7c3hcniMLLYDDzRWZFmxKBUIuJqC
+has_pass:$2y$10$MoAj5zsXJUrgXVvJE/s.TeT3.nuDLlzjUh3Ca2wOJPmW22bXDIYI2
  
-email: rajon@gmail.com
+email: mo@gmail.com
 password:a123456
-has_pass:$2y$10$7HNqeSECA.4khvQioyHfKOwX4e4s2gcg/2HlqwFA9uX/aEItIDAS.
+has_pass:$2y$10$Vxsb5Mu7RaGIEhM8k/H1P.pap5Pu3NXm5L1EL6dePAZcN8RWQrlYK
+ 
+email: mo@gmail.com
+password:a123456
+has_pass:$2y$10$f1aDg7UXn0c2FKkOJvzLYO9nkXaxV.y7Iow5.EXQdzDfjiUNUEvja
+ 
+email: mo@gmail.com
+password:a123456
+has_pass:$2y$10$/D7mj9taZz0oHc4O6E3bs.RWLWFBfbKvDGPvmWTO7hHBTdVV3/D5K
  
