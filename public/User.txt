@@ -18,3 +18,15 @@ email: mo@gmail.com
 password:a123456
 has_pass:$2y$10$/D7mj9taZz0oHc4O6E3bs.RWLWFBfbKvDGPvmWTO7hHBTdVV3/D5K
  
+email: rajon@gmail.com
+password:a123456
+has_pass:$2y$10$yzUxQNQ4OX5yemqFbjxW..cZL9xzg1WBU2/nPTg.Y8Ra6Daptd3uS
+ 
+email: rajon@gmail.com
+password:a123456
+has_pass:$2y$10$goWZPkK44ijDwp4j6iObte7vcwTpj6BLVzS4bzL/CcAf1UE9FuqdK
+ 
+email: rajon@gmail.com
+password:a123456
+has_pass:$2y$10$ARpLj9YsFwPpLs7CO4vL2.ASp9xyJJhYGwhPFap8VYYn1Yp3SLg4q
+ 
