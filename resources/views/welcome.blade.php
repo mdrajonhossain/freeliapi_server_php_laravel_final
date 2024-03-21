@@ -51,7 +51,7 @@
 
     <div class="toast-container position-fixed top-0 end-0 p-3">
         <div class="toast error_toast bg-danger" role="alert" aria-live="assertive" aria-atomic="true">
-            <div class="toast-body text-white">Error: Login Failed</div>
+            <div class="toast-body text-white">email not found</div>
         </div>       
     </div>
 
