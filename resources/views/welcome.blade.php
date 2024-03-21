@@ -12,18 +12,18 @@
 <body class="min-vh-100 d-flex align-items-center justify-content-center" style="background-color: #e9e6e6;">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-5">
+            <div class="col-md-4">
                 <div class="card border-0">
                     <h1 class="card-header border-0 text-center bg-info text-white">Login</h1>
                     <div class="card-body">
                         <form id="resourceForm">
                             <div class="form-group">
                                 <label for="email">Email:</label>
-                                <input type="email" id="email" name="email" class="form-control" required placeholder="Please enter your email">
+                                <input type="email" id="email" name="email" class="form-control" required placeholder="youremail@email.com">
                             </div>
                             <div class="form-group">
                                 <label for="password">Password:</label>
-                                <input type="password" id="password" name="password" class="form-control" required placeholder="Please enter your Password">
+                                <input type="password" id="password" name="password" class="form-control" required placeholder="*******">
                             </div>
                             <div class="form-group">
                                 <div class="form-check">
